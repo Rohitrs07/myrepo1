@@ -1,0 +1,9 @@
+1. github account bnao
+2. empty repo banao
+3. local system me file banano, add kro, commit kro
+4. local branch ko link kro prime branch se: git remote add origin -------
+5. git config --global user.name "Rohitrs07"
+6. git config --global user.email "rohitsingh31st@gmail.com"
+7. git push -u origin master
+	7.1 username? Rohitrs07
+	7.2 password? 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 //{token}
